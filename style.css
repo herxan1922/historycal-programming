@@ -1,13 +1,13 @@
 body {
     
-     background-size: cover; 
+    background-size: cover; 
     background-repeat: no-repeat; 
     background-position: center; 
 }
 table {
     width: 100%;
     border-collapse: collapse;
-        background-image:  url(stalingrad2.jpeg);
+    background-image:  url(stalingrad2.jpeg);
 
 }
 
